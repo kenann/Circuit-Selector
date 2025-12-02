@@ -28,15 +28,6 @@
     </tr>
 </table>
 
-<!-- GitHub'ın izin verdiği en iyi inline embed yöntemi -->
-<object 
-    data="uploadFile/document/Circuit_Selector_Shematic00.pdf" 
-    type="application/pdf" 
-    width="100%" 
-    height="700px">
-    <p>PDF görüntülenemedi. <a href="uploadFile/document/Circuit_Selector_Shematic00.pdf">PDF’yi buradan açabilirsiniz.</a></p>
-</object>
-
 ----
 ## 📘 Documentation
 - [Technical PDF](./uploadFile/document/Circuit_Selector_Shematic00.pdf)
