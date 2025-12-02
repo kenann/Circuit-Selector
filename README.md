@@ -27,6 +27,21 @@
     </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/kenann/Circuit-Selector/blob/main/uploadFile/document/Circuit_Selector_Shematic00.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20PDF-Click%20to%20View-blue?style=for-the-badge" alt="Open PDF">
+  </a>
+</p>
+
+<!-- GitHub'ın izin verdiği en iyi inline embed yöntemi -->
+<object 
+    data="uploadFile/document/Circuit_Selector_Shematic00.pdf" 
+    type="application/pdf" 
+    width="100%" 
+    height="700px">
+    <p>PDF görüntülenemedi. <a href="uploadFile/document/Circuit_Selector_Shematic00.pdf">PDF’yi buradan açabilirsiniz.</a></p>
+</object>
+
 
 ---
 
@@ -53,7 +68,7 @@ Circuit Selector, havaalanı AGL devrelerinde kullanılan, birden fazla güç ka
 🤝 AGL, PBB, apron ekipmanları ve otomasyon projeleri için iletişime geçebilirsiniz
 Havaalanı altyapıları, endüstriyel otomasyon ve güç yönetimi projelerinde teknik destek ve çözüm ortaklığı için memnuniyetle yardımcı olurum.
 
-📩 “Yeni projelerde birlikte çalışmak için iletişime geçebilirsiniz.”
+📩 **[“Yeni projelerde birlikte çalışmak için iletişime geçebilirsiniz.”](https://www.linkedin.com/in/kenan-r-5ab319115/)** 🚀
 
 # English
 ## 📘 About the Project
@@ -89,4 +104,5 @@ It enables reliable selection between multiple Constant Current Regulators (CCRs
 I provide technical support, design, commissioning, and engineering partnership for
 airport infrastructure, industrial automation, and power management systems.
 
-📩 Feel free to contact me for collaboration on new projects.
+📩 **[Feel free to contact me for collaboration on new projects.  ](https://www.linkedin.com/in/kenan-r-5ab319115/)** 🚀
+
