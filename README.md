@@ -32,10 +32,10 @@
 ## 📘 Documentation
 - [Technical PDF](./uploadFile/document/Circuit_Selector_Shematic00.pdf)
 
-## 🛠️ Source Code
+## 🛠️ Source Code - Circuit_Selector483 0V04
 - [Firmware: Cypress Project](./uploadFile/document/Circuit_Selector.kicad_pcb_via100.zip)
 
-## 🧩 Hardware
+## 🧩 Hardware - Circuit_Selector_0V03
 - [KiCad PCB](./uploadFile/document/Circuit_Selector.kicad_pcb_via100.zip)
 - [3D PCB View](./uploadFile/image/Circuit_Selector.kicad_pcb_via100.png)
 
