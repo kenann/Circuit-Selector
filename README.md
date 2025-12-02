@@ -28,12 +28,6 @@
     </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/kenann/Circuit-Selector/blob/main/uploadFile/document/Circuit_Selector_Shematic00.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20PDF-Click%20to%20View-blue?style=for-the-badge" alt="Open PDF">
-  </a>
-</p>
-
 <!-- GitHub'ın izin verdiği en iyi inline embed yöntemi -->
 <object 
     data="uploadFile/document/Circuit_Selector_Shematic00.pdf" 
