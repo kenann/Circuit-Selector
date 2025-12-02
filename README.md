@@ -1,4 +1,5 @@
-# Circuit-Selector
+
+# Circuit Selector – AGL Selector Cabin
 
 ---
 
@@ -42,6 +43,16 @@
     <p>PDF görüntülenemedi. <a href="uploadFile/document/Circuit_Selector_Shematic00.pdf">PDF’yi buradan açabilirsiniz.</a></p>
 </object>
 
+----
+## 📘 Documentation
+- [Technical PDF](./uploadFile/document/Circuit_Selector_Shematic00.pdf)
+
+## 🛠️ Source Code
+- [Firmware: Cypress Project](./uploadFile/document/Circuit_Selector.kicad_pcb_via100.zip)
+
+## 🧩 Hardware
+- [KiCad PCB](./uploadFile/document/Circuit_Selector.kicad_pcb_via100.zip)
+- [3D PCB View](./uploadFile/image/Circuit_Selector.kicad_pcb_via100.png)
 
 ---
 
