@@ -33,7 +33,10 @@
 - [Technical PDF](./uploadFile/document/Circuit_Selector_Shematic00.pdf)
 
 ## 🛠️ Source Code - Circuit_Selector483 0V04
-- [Firmware: Cypress Project](./uploadFile/document/Circuit_Selector.kicad_pcb_via100.zip)
+- [Firmware: Cypress Project](https://github.com/kenann/Circuit-Selector/tags)
+- [![version](https://img.shields.io/github/v/tag/kenann/Circuit-Selector?label=version)](https://github.com/kenann/Circuit-Selector/tags)
+
+
 
 ## 🧩 Hardware - Circuit_Selector_0V03
 - [KiCad PCB](./uploadFile/document/Circuit_Selector.kicad_pcb_via100.zip)
